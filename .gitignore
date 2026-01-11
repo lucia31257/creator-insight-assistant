@@ -67,4 +67,5 @@ logs/
 
 # Large video files (exceed GitHub 100MB limit)
 demo/*.mov
-demo/*.mp4
+# Compressed videos are allowed
+# demo/*.mp4
