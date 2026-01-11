@@ -340,12 +340,11 @@ npm run dev
 
 ### 📹 演示视频
 
-<video width="800" controls>
-  <source src="demo/demo-compressed.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。请<a href="demo/demo-compressed.mp4">点击这里下载视频</a>。
-</video>
 
-> **注意**：原始视频文件（`demo.mov`，135MB）已压缩为 `demo-compressed.mp4`（4.8MB）以便在 GitHub 上展示。 
+https://github.com/user-attachments/assets/027ae78a-12c7-429e-b909-d3313648a010
+
+
+
 
 
 ---
